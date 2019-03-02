@@ -3,13 +3,13 @@ FdF proposes to represent the mesh in "wire of a field" in 3D.
 
 # Subject
 
-  https://github.com/osloboda/Filler/files/2922035/filler.en.pdf
+  https://github.com/osloboda/FdF/files/2922047/fdf.en.pdf
 
 # Usage
 
 ```console
 make
-./fdf maps/42.fdf 1000 800
+./fdf maps/42.fdf 1000 600
 ```
 # Preview
 
